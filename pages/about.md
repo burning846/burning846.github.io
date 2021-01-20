@@ -3,30 +3,29 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 陌生人，欢迎访问 Burning的Blog
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
+主题基于开源模板[tmaize-blog](https://github.com/TMaize/tmaize-blog)，对网站模板有任何疑问，请在原作者[留言板](chat.html)留言
 
-主题使自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，欢迎 Star&Fork。另喜欢本博客的欢迎**添加友链**，在[留言板](chat.html)留言即可
+>  该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量。
 
 ## 相关技能
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+- 本科毕业于北京大学信息科学技术学院，有一定C++和算法基础。
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+- 研究生就读于北京大学人工智能创新中心，研究方向为计算机视觉。
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+- 熟练掌握Python、OpenCV、PyTorch、TensorFlow等深度学习工具。
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
+- 对开发有一些兴趣，有基本的Java、HTML、JavaScript技能。
 
-- Linux 的简单使用，各种服务的搭建
+- 掌握Linux服务器和 Git 的基本使用。
 
-- 能够使用 Git/SVN 对代码版本进行控制
 
 ## 联系我
 
-- QQ : 1772314831
+- QQ : 893070935
 
-- Email : [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email : sbn1998@pku.edu.cn
 
-- GitHub : [https://github.com/tmaize](https://github.com/tmaize)
+- GitHub : [https://github.com/burning846](https://github.com/burning846)
