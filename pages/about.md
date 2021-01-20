@@ -5,7 +5,7 @@ title: 关于我
 
 > Hello 陌生人，欢迎访问 Burning的Blog
 
-主题基于开源模板[tmaize-blog](https://github.com/TMaize/tmaize-blog)，对网站模板有任何疑问，请在原作者[留言板](chat.html)留言
+主题基于开源模板[tmaize-blog](https://github.com/TMaize/tmaize-blog)，对网站模板有任何疑问，请在原作者[留言板](https://support.qq.com/products/86335)留言
 
 >  该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量。
 
